@@ -1,0 +1,55 @@
+[{
+   "movie":"/assets/thor.jpg",
+   "title":"thor",
+   "year":2018
+},
+
+{
+    "movie":"/assets/spiderman.jpg",
+    "title":"spider man",
+    "year":2017
+ },
+
+ {
+    "movie":"/assets/hulk.jpg",
+    "title":"hulk",
+    "year":2016
+ },
+
+ 
+ {
+    "movie":"/assets/dead pool.jpg",
+    "title":"dead pool",
+    "year":2020
+ },
+ 
+ {
+     "movie":"/assets/ant man.jpg",
+     "title":"ant man",
+     "year":2018
+  },
+ 
+  {
+     "movie":"/assets/ironman.jpg",
+     "title":"iron man",
+     "year":2015
+  },
+
+  {
+    "movie":"/assets/titanic.jpg",
+    "title":"titanic",
+    "year":2000
+ },
+ 
+ {
+     "movie":"/assets/avatar.jpg",
+     "title":"avatar",
+     "year":2014
+  },
+ 
+  {
+     "movie":"/assets/anaconda.jpg",
+     "title":"anaconda",
+     "year":2010
+  }
+]
